@@ -1,4 +1,4 @@
-## Developed By : DINESH KUMAR R
+## NAME : DINESH KUMAR R
 ## Register No : 212222110010
 # EX-01 Led-control-using-Arduino
 
