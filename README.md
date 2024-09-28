@@ -1,5 +1,5 @@
 ## NAME : DINESH KUMAR R
-## Register No : 212222110010
+## REGISTER NO : 212222110010
 # EX-01 Led-control-using-Arduino
 
 ## AIM
